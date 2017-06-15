@@ -1,6 +1,6 @@
 # Autodefensa digital
 
-1. Qué hace tu proyecto
+1. Qué hace
 2. Cómo se instala
 3. Ejemplo de uso
 4. Cómo configurar el entorno
@@ -8,7 +8,10 @@
 6. Change log
 7. Licencia y autoría
 
-## 1. Qué hace tu proyecto
+## 1. Qué hace
+
+Explicar de una manera concisa (un parágrafo mejor) qué hace tu proyecto para que posibles usuarios o colaboradores participen en el
+
 ## 2. Cómo se instala
 ## 3. Ejemplo de uso
 ## 4. Cómo configurar el entorno
