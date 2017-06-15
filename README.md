@@ -1,19 +1,27 @@
 # Autodefensa digital
 
-1. What your project does
-2. How to install it
-3. Example usage
-4. How to set up the dev environment
-5. How to ship a change
+1. Qué hace tu proyecto
+2. Cómo se instala
+3. Ejemplo de uso
+4. Cómo configurar el entorno
+5. Cómo enviar un cambio
 6. Change log
-7. License and author info
+7. Licencia y autoría
+
+## 1. Qué hace tu proyecto
+## 2. Cómo se instala
+## 3. Ejemplo de uso
+## 4. Cómo configurar el entorno
+## 5. Cómo enviar un cambio
+## 6. Change log
+## 7. Licencia y autoría
+
+### Más información de como está gestionada esta comunidad
 
 Actualmente existe una primera versión de sutodefensa digital mantenida por Jesus del Olmo
 Buscar como un branch de este proyecto
 
 https://ciberseguridad.jacynycz.es
-
-### Más información de como está gestionada esta comunidad
 
 https://github.com/mselezm/autodefensa/wiki
 
