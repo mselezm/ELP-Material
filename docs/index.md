@@ -8,5 +8,5 @@
 - Cómo documentar un trabajo de utilidad social
 - Cómo calificar un trabajo de utilidad social
 
-[Generar README del trabajo](doc_html/tus.html)
+[Generar README del trabajo](README.md)
 
