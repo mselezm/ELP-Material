@@ -49,9 +49,13 @@ Añade instrucciones claras de los pasos a seguir para crear y lanzar una nueva 
 
 ### 6. Change log
 
-
+Los usuarios de tu proyecto querann saber qué cambios se hicieron en comparación con la última versión. Además gracias al ''Change log'' puedes reconocer publicamente la autoria de parte del código del proyecto a terceros.
 
 ### 7. Licencia y autoría
+
+Si un proyecto no tiene definida explicitamente su licencia, no es libre.
+
+Las distintas licencias disponibles las puedes encontrar en: https://tldrlegal.com/
 
 #### Más información de como está gestionada esta comunidad
 
