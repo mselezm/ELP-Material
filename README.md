@@ -1,5 +1,7 @@
 # ELP
 
+[howto_readme.md]
+
 ## Qué debe aparecer en el readme de un proyecto
 
 #### Para que sea fácil utilizarlo por un gran número de usuarios
