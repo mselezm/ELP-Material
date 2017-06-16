@@ -19,21 +19,38 @@ Explicar de una manera concisa (un párrafo mejor) qué hace tu proyecto para qu
 ### 2. Cómo se instala
 
 Deben aparecer las instrucciones de instalación.
-Debe aparecer paso a paso todo lo que se debe escribir en la linea de comando
-Conviene que estas instrucciones estén escritas para distintos sistemas operativos
+Debe aparecer paso a paso todo lo que se debe escribir en la linea de comando.
+Conviene que estas instrucciones estén escritas para distintos sistemas operativos.
 
 ### 3. Ejemplo de uso
 
 A cualquier usuario le va a gustar ver las ordenes típicas de funcionamiento.
-Utiliza ejemplos útiles y motivadores
-Si quieres que te ayuden generando código añade ejemplos de programas del proyecto
+Utiliza ejemplos útiles y motivadores.
+Si quieres que te ayuden generando código añade ejemplos de programas del proyecto.
 
 ### 4. Cómo configurar el entorno de desarrollo
 
+Para que un proyecto de SW libre tenga éxito conviene que puedan existir colaboradores que te ayuden a mejorarlo.
 
+El primer paso es proporcionar a los colaboradores potenciales instrucciones claras para establecer su entorno de desarrollo.
+Puedes utilizar un bloque de código con instrucciones claras para:
+
+- Instalar todas las dependencias de desarrollo.
+
+- Ejecutar un conjunto de pruebas automático de algún tipo.
+
+Tener al menos una suite de pruebas básicas es importante porque permite a los desarrolladores confirmar que han establecido correctamente su entorno de desarrollo. 
 
 ### 5. Cómo enviar un cambio
+
+Debe incluir una descripción rápida del proceso de desarrollo general del proyecto. Por ejemplo, acepta pull-request o quiere parches por correo electrónico o ...
+
+Añade instrucciones claras de los pasos a seguir para crear y lanzar una nueva versión de este software.
+
 ### 6. Change log
+
+
+
 ### 7. Licencia y autoría
 
 #### Más información de como está gestionada esta comunidad
