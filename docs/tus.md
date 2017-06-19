@@ -19,8 +19,11 @@ El Trabajo de Utilidad Social puede proponerse de manera individual o en equipo.
 
 Para que se pueda realizar una realimentación efectiva del Trabajo de Utilidad Social conviene:
 
--- Haber enviado una propuesta al profesor antes del 22 de octubre.
--- Haber enviado al profesor un esquema del trabajo realizado y del trabajo por hacer antes del 22 de dicembre.
+  - Haber enviado una propuesta al profesor antes del 1 de noviembre.
+  - Haber enviado al profesor un esquema del trabajo realizado y del trabajo por hacer antes del 22 de dicembre.
+  
+ A continuación se describen una serie de ejemplos de posibles Trabajos de Utilidad Social
+ 
 
 - Cómo documentar un trabajo de utilidad social
 - Cómo calificar un trabajo de utilidad social
