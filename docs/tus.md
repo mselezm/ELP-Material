@@ -15,7 +15,7 @@ Algunos ejemplos de trabajos de utilidad social presentados otros años se puede
 
 - Cómo proponer un trabajo de utilidad social
 
-El Trabajo de Utilidad Social puede proponerse de manera individual o en equipo. En ambos casos conviene rellenar la siguiente [tabla](/tusfolder/tabla.md).
+El Trabajo de Utilidad Social puede proponerse de manera individual o en equipo. En ambos casos conviene rellenar la siguiente [tabla](tusfolder/tabla.md).
 
 Para que se pueda realizar una realimentación efectiva del Trabajo de Utilidad Social conviene:
 
